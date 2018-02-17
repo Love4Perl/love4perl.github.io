@@ -8,7 +8,7 @@ Granada, el 17 de febrero de 2017.
 ( Añadid las charlas con un pull request)
 
 | Quién | Qué                                      |
-| ===== | ======================================== |
+| ----- | ---------------------------------------- |
 |       |                                          |
 
 
