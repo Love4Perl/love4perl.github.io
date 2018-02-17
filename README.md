@@ -18,9 +18,11 @@ Granada, el 17 de febrero de 2017.
   [Fotos en Instagram](https://www.instagram.com/explore/tags/love4perl/)
   
 *
-  [Álbum el Flickr](https://www.flickr.com/photos/atalaya/albums/72157687915310310)
+  [Álbum en Flickr](https://www.flickr.com/photos/atalaya/albums/72157687915310310)
   
   
 (Añadid las vuestras con un Pull Request)
 
 # Cualquier otra cosa
+
+Añadid aquí cualquier otra cosa relacionada con el workshop.
