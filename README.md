@@ -1,6 +1,6 @@
 # Love4Perl, Granada Perl Workshop 2018
 
-La (media) jornada ha tenido lugar en el Carmen de la Victoria, en
+La [(media) jornada](http://workshop.granada.pm/granada2018/) ha tenido lugar en el Carmen de la Victoria, en
 Granada, el 17 de febrero de 2017.
 
 # Charlas
