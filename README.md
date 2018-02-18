@@ -9,7 +9,7 @@ Granada, el 17 de febrero de 2017.
 
 | Quién | Qué                                      |
 | ----- | ---------------------------------------- |
-|       |                                          |
+| Ramiro Encinas | [Un servidor web con Perl6](https://ramiroencinas.com/docs/webserver-perl6-slides) |
 
 
 # Fotos
@@ -19,6 +19,9 @@ Granada, el 17 de febrero de 2017.
   
 *
   [Álbum en Flickr](https://www.flickr.com/photos/atalaya/albums/72157687915310310)
+  
+*
+  [Fotos en Google Drive](https://drive.google.com/open?id=112qYasIb5oLdf7Z7VwWBg80s62i918CW)
   
   
 (Añadid las vuestras con un Pull Request)
