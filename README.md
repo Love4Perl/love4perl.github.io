@@ -9,18 +9,18 @@ Granada, el 17 de febrero de 2017.
 
 | Quién | Qué                                      |
 | ----- | ---------------------------------------- |
-|       |                                          |
+| [Germán Martínez Maldonado](https://github.com/germaaan) | [Todo lo que puedes aprender sobre Perl 6 en una noche sin sueño](doc/todo_lo_que_puedes_aprender_sobre_perl_6_en_una_noche_sin_sueño.pdf) |
 
 
 # Fotos
 
 *
   [Fotos en Instagram](https://www.instagram.com/explore/tags/love4perl/)
-  
+
 *
   [Álbum en Flickr](https://www.flickr.com/photos/atalaya/albums/72157687915310310)
-  
-  
+
+
 (Añadid las vuestras con un Pull Request)
 
 # Cualquier otra cosa
