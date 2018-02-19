@@ -11,6 +11,7 @@ Granada, el 17 de febrero de 2017.
 | ----- | ---------------------------------------- |
 | Ramiro Encinas | [Un servidor web con Perl6](https://ramiroencinas.com/docs/webserver-perl6-slides) |
 | [Germán Martínez Maldonado](https://github.com/germaaan) | [Todo lo que puedes aprender sobre Perl 6 en una noche sin sueño](doc/todo_lo_que_puedes_aprender_sobre_perl_6_en_una_noche_sin_sueño.pdf) |
+| Jose Luis Perez (https://github.com/jluis) | LUSER HACKING TOOLKIT(https://jluis.github.io/Granada_love4Perl/#/) |
 
 
 
