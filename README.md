@@ -3,6 +3,8 @@
 La [(media) jornada](http://workshop.granada.pm/granada2018/) ha tenido lugar en el Carmen de la Victoria, en
 Granada, el 17 de febrero de 2017.
 
+![Asistentes enfrente de la Alhambra](gpw2018.jpg)
+
 # Charlas
 
 
