@@ -5,7 +5,6 @@ Granada, el 17 de febrero de 2017.
 
 # Charlas
 
-( Añadid las charlas con un pull request)
 
 | Quién | Qué                                      |
 | ----- | ---------------------------------------- |
@@ -28,8 +27,6 @@ Granada, el 17 de febrero de 2017.
   [Fotos en Google Drive](https://drive.google.com/open?id=112qYasIb5oLdf7Z7VwWBg80s62i918CW)
   
   
-(Añadid las vuestras con un Pull Request)
-
 # Cualquier otra cosa
 
 Añadid aquí cualquier otra cosa relacionada con el workshop.
